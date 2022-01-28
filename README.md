@@ -2,10 +2,10 @@ zsim-582
 =======
 Build on top of zsim-pt to do online prefetching on main thread while profile analysis happening elsewhere
 Tasks:  
-- [] Understand zsim
-- [] zsim logging
-- [] Cache miss analysis
-- [] Prefetch implementation
+- [ ] Understand zsim
+- [ ] zsim logging
+- [ ] Cache miss analysis
+- [ ] Prefetch implementation
 
 zsim-pt
 =======
